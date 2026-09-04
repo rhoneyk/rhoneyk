@@ -1,4 +1,4 @@
-## Hi, I'm Kellie :smile:
+## Hi, I'm Kellie 🙂
 
 I'm a technical implementation and client delivery professional with a background spanning pharmaceutical SaaS, event operations technology, and platform configuration. I hold a Master's degree in IT and I'm currently focused on moving deeper into technical, implementation-focused roles — the kind of work where I get to dig into a system, find the actual root cause of a problem, and fix it properly rather than patch around it.
 
