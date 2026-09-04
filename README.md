@@ -7,6 +7,7 @@ I'm a technical implementation and client delivery professional with a backgroun
 Platform configuration & administration: Salesforce, Gainsight Automation & workflow tools: Power Automate, Microsoft Forms, Excel/SharePoint integrations Troubleshooting: root-cause analysis, cross-environment comparison, data integrity issues Client-facing delivery: ticket resolution, stakeholder communication, documentation
 
 **Featured Work**
+
 Root-Causing a Currency Default Bug in a Client-Facing Grid Layout
 
 A client submitting a research funding request in EUR found that a related field defaulted to USD on amendment, instead of retaining the original currency. Our Tier 2 team's recommended fix — exporting and re-importing the grid layout, which had resolved a similar issue in our lower environment — didn't fix it here.
